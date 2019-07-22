@@ -1,5 +1,15 @@
 # M2U-Net
-Code for __"[M2U-Net: Efficient Retinal Vessel Segmentation for Resource Constraint Environments](https://arxiv.org/abs/1811.07738)"__ 
+Code for __"[M2U-Net: Effective and Efficient Retinal Vessel Segmentation for Real-World Applications](http://openaccess.thecvf.com/content_CVPRW_2019/html/BIC/Laibacher_M2U-Net_Effective_and_Efficient_Retinal_Vessel_Segmentation_for_Real-World_Applications_CVPRW_2019_paper.html)"__ 
+
+```bash
+@InProceedings{Laibacher_2019_CVPR_Workshops,
+author = {Laibacher, Tim and Weyde, Tillman and Jalali, Sepehr},
+title = {M2U-Net: Effective and Efficient Retinal Vessel Segmentation for Real-World Applications},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2019}
+}
+```
 
 This repository contains the M2U-Net model definition in PyTorch and code for benchmarking inference speeds on GPU, CPU and ARM ([ROCKPro64 SoC](https://www.pine64.org/?product=rockpro64-4gb-single-board-computer)).
 
